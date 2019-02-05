@@ -1,0 +1,10 @@
+{
+  "application/vnd.google-apps.document": "docx",
+  "application/vnd.google-apps.spreadsheet": "xlsx",
+  "application/vnd.google-apps.jam": "pdf",
+  "application/vnd.google-apps.script": "js",
+  "application/vnd.google-apps.presentation": "pptx",
+  "application/vnd.google-apps.form": "zip",
+  "application/vnd.google-apps.drawing": "jpeg",
+  "application/vnd.google-apps.site": "txt"
+}
